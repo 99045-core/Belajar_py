@@ -32,7 +32,7 @@ while play:
         print("Masukkan angka!!!")
             
 # eksekusi inisialisasi loop    
-    play = input("\nPlay again? \nY for YES or N to Quit\n")
+    play = input("\nHitung Lagi? \nY for YES or N to Quit\n")
     if play.lower() == "y":
         continue
     else:
